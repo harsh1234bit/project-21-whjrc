@@ -1,1 +1,2 @@
-# project-21-whjrc
+# p5.play-boilerplate
+Boiler plate for p5.play
